@@ -33,7 +33,7 @@ A tool for PC QQ to export TXT chat records to excel tables
       <br><b>即使数据量再大也不怕</b>
     </td>
     <td>
-      <img src="https://github.com/aoguai/QQtoExcel/blob/main/images/5.png" />
+      <img src="https://github.com/wzn99/QQtoExcel/blob/main/images/5.png" />
       <br><b>直接复制消息记录使用</b>
     </td>
   </tr>
